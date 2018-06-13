@@ -1,3 +1,6 @@
+//script for navigation menu
+//expands menu
+
 $(document).ready(function() { 
   $.fn.menumaker = function(options) {
     var cssmenu = $(this), settings = $.extend({
